@@ -1,0 +1,144 @@
+
+
+[
+    {
+        "commonNames": ["Aloe Vera"],
+        "scientificName": "Aloe barbadensis miller",
+        "category": "Succulents",
+        "mainImage": "../images/aloe_vera.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "High",
+            "height": "Up to 24 inches",
+            "spread": "Up to 24 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Peace Lily"],
+        "scientificName": "Spathiphyllum",
+        "category": "Indoor Plants",
+        "mainImage": "../images/peace_lily.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Medium",
+            "lightRange": "Low to medium",
+            "height": "Up to 36 inches",
+            "spread": "Up to 24 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Snake Plant"],
+        "scientificName": "Sansevieria trifasciata",
+        "category": "Indoor Plants",
+        "mainImage": "../images/snake_plant.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "Low to high",
+            "height": "Up to 36 inches",
+            "spread": "Up to 18 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Spider Plant"],
+        "scientificName": "Chlorophytum comosum",
+        "category": "Indoor Plants",
+        "mainImage": "../images/spider_plant.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Medium",
+            "lightRange": "Low to high",
+            "height": "Up to 24 inches",
+            "spread": "Up to 24 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Bamboo Palm"],
+        "scientificName": "Chamaedorea seifrizii",
+        "category": "Indoor Plants",
+        "mainImage": "../images/bamboo_palm.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Medium",
+            "lightRange": "Low to medium",
+            "height": "Up to 72 inches",
+            "spread": "Up to 36 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Rubber Plant"],
+        "scientificName": "Ficus elastica",
+        "category": "Indoor Plants",
+        "mainImage": "../images/rubber_plant.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Medium",
+            "lightRange": "Medium to high",
+            "height": "Up to 96 inches",
+            "spread": "Up to 48 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["ZZ Plant"],
+        "scientificName": "Zamioculcas zamiifolia",
+        "category": "Indoor Plants",
+        "mainImage": "../images/zz_plant.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "Low to medium",
+            "height": "Up to 36 inches",
+            "spread": "Up to 36 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Monstera"],
+        "scientificName": "Monstera deliciosa",
+        "category": "Indoor Plants",
+        "mainImage": "../images/monstera.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Medium",
+            "lightRange": "Low to medium",
+            "height": "Up to 96 inches",
+            "spread": "Up to 72 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Fiddle Leaf Fig"],
+        "scientificName": "Ficus lyrata",
+        "category": "Indoor Plants",
+        "mainImage": "../images/fiddle_leaf_fig.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Medium",
+            "lightRange": "Medium to high",
+            "height": "Up to 120 inches",
+            "spread": "Up to 60 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Jade Plant"],
+        "scientificName": "Crassula ovata",
+        "category": "Succulents",
+        "mainImage": "../images/jade_plant.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "High",
+            "height": "Up to 36 inches",
+            "spread": "Up to 36 inches",
+            "season": "All year"
+        }
+    }
+]

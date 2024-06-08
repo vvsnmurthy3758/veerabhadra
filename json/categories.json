@@ -1,0 +1,13 @@
+[
+    {"name": "Trees", "image": "trees.jpg"},
+    {"name": "Shrubs", "image": "shrubs.jpg"},
+    {"name": "Flower Plants", "image": "flowers.jpg"},
+    {"name": "Ornamental Grasses", "image": "grasses.jpg"},
+    {"name": "Perennials", "image": "perennials.jpg"},
+    {"name": "Fruits", "image": "fruits.jpg"},
+    {"name": "Groundcovers", "image": "groundcovers.jpg"},
+    {"name": "Climbers and Vines", "image": "vines.jpg"},
+    {"name": "Aquatic Plants", "image": "aquatic.jpg"},
+    {"name": "Succulents", "image": "succulents.jpg"},
+    {"name": "Indoor Plants", "image": "indoor_plants.jpg"}
+]
