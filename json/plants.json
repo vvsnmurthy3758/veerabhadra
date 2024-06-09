@@ -2,6 +2,592 @@
 
 [
     {
+        "commonNames": ["Areca Catechu"],
+        "scientificName": "Areca catechu",
+        "category": "Trees",
+        "mainImage": "https://m.media-amazon.com/images/I/51lOObUZi0L._AC_UF1000,1000_QL80_.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 65 feet",
+            "spread": "Up to 10 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Royal Palm"],
+        "scientificName": "Roystonea regia",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Roystonea_regia_%28Washington_Palm%29.jpg/1200px-Roystonea_regia_%28Washington_Palm%29.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "High",
+            "lightRange": "Full sun",
+            "height": "Up to 100 feet",
+            "spread": "Up to 20 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Japanese Fern Tree"],
+        "scientificName": "Filicium decipiens",
+        "category": "Trees",
+        "mainImage": "https://cdn.shopify.com/s/files/1/0150/6262/products/Filicium-Decipiens-Plant.png?v=1632582681",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 30 feet",
+            "spread": "Up to 25 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Champak"],
+        "scientificName": "Michelia champaca",
+        "category": "Trees",
+        "mainImage": "https://cdn.shopify.com/s/files/1/0176/3376/products/michelia_champaca_grande.jpg?v=1607736540",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 50 feet",
+            "spread": "Up to 30 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Trumpet Tree"],
+        "scientificName": "Tabebuia rosea",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tabebuia_rosea_1.jpg/1200px-Tabebuia_rosea_1.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 30 feet",
+            "spread": "Up to 20 feet",
+            "season": "Spring"
+        }
+    },
+    {
+        "commonNames": ["White Frangipani"],
+        "scientificName": "Plumeria alba",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Plumeria_alba%2C_White_frangipani_flower.jpg/1200px-Plumeria_alba%2C_White_frangipani_flower.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "Full sun",
+            "height": "Up to 25 feet",
+            "spread": "Up to 15 feet",
+            "season": "Spring to Fall"
+        }
+    },
+    {
+        "commonNames": ["Indian Almond"],
+        "scientificName": "Terminalia catappa",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/6/60/Terminalia_catappa.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 80 feet",
+            "spread": "Up to 50 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Naked Wood"],
+        "scientificName": "Putrangia roxburghii",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Putrangiva_roxburghii-Whole_SF_2015-08-26-6364.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 50 feet",
+            "spread": "Up to 30 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Bottlebrush Tree"],
+        "scientificName": "Callistemon lanceolatus",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/0/09/Callistemon_citrinus.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 20 feet",
+            "spread": "Up to 15 feet",
+            "season": "Spring to Summer"
+        }
+    },    {
+        "commonNames": ["Meusa Ferra"],
+        "scientificName": "Meusa ferrea",
+        "category": "Trees",
+        "mainImage": "https://example.com/meusa_ferra.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 40 feet",
+            "spread": "Up to 20 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Brazilian Firetree"],
+        "scientificName": "Schizolobium parahyba",
+        "category": "Trees",
+        "mainImage": "https://example.com/schizolobium_parahyba.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 100 feet",
+            "spread": "Up to 30 feet",
+            "season": "Summer"
+        }
+    },
+    {
+        "commonNames": ["Indian Date Palm"],
+        "scientificName": "Phoenix sylvestris",
+        "category": "Trees",
+        "mainImage": "https://example.com/phoenix_sylvestris.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 40 feet",
+            "spread": "Up to 15 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Umbrella Tree"],
+        "scientificName": "Schefflera actinophylla",
+        "category": "Trees",
+        "mainImage": "https://example.com/schefflera_actinophylla.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 50 feet",
+            "spread": "Up to 20 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["African Tulip Tree"],
+        "scientificName": "Spathodea campanulata",
+        "category": "Trees",
+        "mainImage": "https://example.com/spathodea_campanulata.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 80 feet",
+            "spread": "Up to 30 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Pink Trumpet Tree"],
+        "scientificName": "Tabebuia avellanedae",
+        "category": "Trees",
+        "mainImage": "https://example.com/tabebuia_avellanedae.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 50 feet",
+            "spread": "Up to 30 feet",
+            "season": "Spring"
+        }
+    },
+    {
+        "commonNames": ["Pride of India"],
+        "scientificName": "Lagerstroemia speciosa",
+        "category": "Trees",
+        "mainImage": "https://example.com/lagerstroemia_speciosa.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 60 feet",
+            "spread": "Up to 20 feet",
+            "season": "Summer"
+        }
+    },
+    {
+        "commonNames": ["Red Frangipani"],
+        "scientificName": "Plumeria rubra var. acutifolia",
+        "category": "Trees",
+        "mainImage": "https://example.com/plumeria_rubra_red.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "Full sun",
+            "height": "Up to 25 feet",
+            "spread": "Up to 15 feet",
+            "season": "Spring to Fall"
+        }
+    },
+    {
+        "commonNames": ["Indian Almond"],
+        "scientificName": "Terminalia mentalis",
+        "category": "Trees",
+        "mainImage": "https://example.com/terminalia_mentalis.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 80 feet",
+            "spread": "Up to 50 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Silver Trumpet Tree"],
+        "scientificName": "Tabebuia argentea",
+        "category": "Trees",
+        "mainImage": "https://example.com/tabebuia_argentea.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 30 feet",
+            "spread": "Up to 20 feet",
+            "season": "Spring"
+        }
+    },{
+        "commonNames": ["Traveler's Palm"],
+        "scientificName": "Ravenala madagascariensis",
+        "category": "Trees",
+        "mainImage": "https://example.com/ravenala_madagascariensis.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 30 feet",
+            "spread": "Up to 20 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Spanish Cherry"],
+        "scientificName": "Mimusops elengi",
+        "category": "Trees",
+        "mainImage": "https://example.com/mimusops_elengi.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 50 feet",
+            "spread": "Up to 30 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Cockspur Coral Tree"],
+        "scientificName": "Erythrina crista-galli",
+        "category": "Trees",
+        "mainImage": "https://example.com/erythrina_crista-galli.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 20 feet",
+            "spread": "Up to 20 feet",
+            "season": "Spring to Summer"
+        }
+    },
+    {
+        "commonNames": ["Dragon Tree"],
+        "scientificName": "Dracaena draco",
+        "category": "Trees",
+        "mainImage": "https://example.com/dracaena_draco.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 25 feet",
+            "spread": "Up to 20 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Kadamba Tree"],
+        "scientificName": "Anthocephalus kadamba",
+        "category": "Trees",
+        "mainImage": "https://example.com/anthocephalus_kadamba.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 150 feet",
+            "spread": "Up to 50 feet",
+            "season": "Monsoon"
+        }
+    },
+    {
+        "commonNames": ["Paradise Tree"],
+        "scientificName": "Simarouba glauca",
+        "category": "Trees",
+        "mainImage": "https://example.com/simarouba_glauca.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 50 feet",
+            "spread": "Up to 30 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Multi-ball Fig"],
+        "scientificName": "Ficus microcarpa",
+        "category": "Trees",
+        "mainImage": "https://example.com/ficus_multiball.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 60 feet",
+            "spread": "Up to 70 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Macarthur Palm"],
+        "scientificName": "Ptychosperma macarthurii",
+        "category": "Trees",
+        "mainImage": "https://example.com/ptychosperma_macarthurii.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "High",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 20 feet",
+            "spread": "Up to 10 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Royal Poinciana"],
+        "scientificName": "Delonix regia",
+        "category": "Trees",
+        "mainImage": "https://example.com/delonix_regia.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 40 feet",
+            "spread": "Up to 60 feet",
+            "season": "Spring to Summer"
+        }
+    },
+    {
+        "commonNames": ["Foxtail Palm"],
+        "scientificName": "Wodyetia bifurcata",
+        "category": "Trees",
+        "mainImage": "https://example.com/wodyetia_bifurcata.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 30 feet",
+            "spread": "Up to 10 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Yellow Silk Cotton Tree"],
+        "scientificName": "Cochlospermum religiosum",
+        "category": "Trees",
+        "mainImage": "https://example.com/cochlospermum_religiosum.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 25 feet",
+            "spread": "Up to 20 feet",
+            "season": "Spring"
+        }
+    },
+    {
+        "commonNames": ["Yellow Frangipani"],
+        "scientificName": "Plumeria rubra",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Plumeria_rubra_flower_%281%29.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "Full sun",
+            "height": "Up to 25 feet",
+            "spread": "Up to 15 feet",
+            "season": "Spring to Fall"
+        }
+    },
+    {
+        "commonNames": ["Aloe Vera"],
+        "scientificName": "Aloe barbadensis miller",
+        "category": "Succulents",
+        "mainImage": "../images/aloe_vera.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "High",
+            "height": "Up to 24 inches",
+            "spread": "Up to 24 inches",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Areca Catechu"],
+        "scientificName": "Areca catechu",
+        "category": "Trees",
+        "mainImage": "https://m.media-amazon.com/images/I/51lOObUZi0L._AC_UF1000,1000_QL80_.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 65 feet",
+            "spread": "Up to 10 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Royal Palm"],
+        "scientificName": "Roystonea regia",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Roystonea_regia_%28Washington_Palm%29.jpg/1200px-Roystonea_regia_%28Washington_Palm%29.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "High",
+            "lightRange": "Full sun",
+            "height": "Up to 100 feet",
+            "spread": "Up to 20 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Japanese Fern Tree"],
+        "scientificName": "Filicium decipiens",
+        "category": "Trees",
+        "mainImage": "https://cdn.shopify.com/s/files/1/0150/6262/products/Filicium-Decipiens-Plant.png?v=1632582681",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 30 feet",
+            "spread": "Up to 25 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Champak"],
+        "scientificName": "Michelia champaca",
+        "category": "Trees",
+        "mainImage": "https://cdn.shopify.com/s/files/1/0176/3376/products/michelia_champaca_grande.jpg?v=1607736540",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 50 feet",
+            "spread": "Up to 30 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Trumpet Tree"],
+        "scientificName": "Tabebuia rosea",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tabebuia_rosea_1.jpg/1200px-Tabebuia_rosea_1.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 30 feet",
+            "spread": "Up to 20 feet",
+            "season": "Spring"
+        }
+    },
+    {
+        "commonNames": ["White Frangipani"],
+        "scientificName": "Plumeria alba",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Plumeria_alba%2C_White_frangipani_flower.jpg/1200px-Plumeria_alba%2C_White_frangipani_flower.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "Full sun",
+            "height": "Up to 25 feet",
+            "spread": "Up to 15 feet",
+            "season": "Spring to Fall"
+        }
+    },
+    {
+        "commonNames": ["Indian Almond"],
+        "scientificName": "Terminalia catappa",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/6/60/Terminalia_catappa.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 80 feet",
+            "spread": "Up to 50 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Naked Wood"],
+        "scientificName": "Putrangia roxburghii",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Putrangiva_roxburghii-Whole_SF_2015-08-26-6364.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun to partial shade",
+            "height": "Up to 50 feet",
+            "spread": "Up to 30 feet",
+            "season": "All year"
+        }
+    },
+    {
+        "commonNames": ["Bottlebrush Tree"],
+        "scientificName": "Callistemon lanceolatus",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/0/09/Callistemon_citrinus.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Moderate",
+            "lightRange": "Full sun",
+            "height": "Up to 20 feet",
+            "spread": "Up to 15 feet",
+            "season": "Spring to Summer"
+        }
+    },
+    {
+        "commonNames": ["Yellow Frangipani"],
+        "scientificName": "Plumeria rubra",
+        "category": "Trees",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Plumeria_rubra_flower_%281%29.jpg",
+        "subImages": [],
+        "growthAndMaintenance": {
+            "waterNeeds": "Low",
+            "lightRange": "Full sun",
+            "height": "Up to 25 feet",
+            "spread": "Up to 15 feet",
+            "season": "Spring to Fall"
+        }
+    },
+    {
         "commonNames": ["Aloe Vera"],
         "scientificName": "Aloe barbadensis miller",
         "category": "Succulents",
